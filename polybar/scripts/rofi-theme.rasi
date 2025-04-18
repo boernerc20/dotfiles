@@ -1,0 +1,27 @@
+configuration {
+    font: "JetBrainsMono Nerd Font 12";
+    show-icons: true;
+}
+
+* {
+    background-color: #1E1E2E;
+    text-color: #CBE3E7;
+    border-color: #F28FAD;
+    padding: 10px;
+}
+
+window {
+    border: 2px solid @border-color;
+    background-color: @background-color;
+    padding: 15px;
+}
+
+element {
+    text-color: @text-color;
+}
+
+element selected {
+    background-color: #ABE9B3;
+    text-color: #1E1E2E;
+    padding: 5px;
+}
