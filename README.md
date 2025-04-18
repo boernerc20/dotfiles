@@ -1,5 +1,5 @@
 # dotfiles
-Collection of Dotfiles for my current Ubuntu setup.
+Collection of Dotfiles for my personal Ubuntu setup.
 <p align="center">
   <img src="images/demo_image.png" width="1080"/>
 </p>
